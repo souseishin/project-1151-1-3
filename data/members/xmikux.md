@@ -1,10 +1,8 @@
 # Max
 
-![](https://avatars.githubusercontent.com/u/26039249?v=4)
-
 ## Emoji
 
-⋉(● ∸ ●)⋊
+🔰
 
 ## Department
 
@@ -25,4 +23,4 @@ git 新手，求帶！
 
 ## GitHub
 
-https://github.com/xMikux
+xMikux
