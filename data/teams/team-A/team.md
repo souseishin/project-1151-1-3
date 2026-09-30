@@ -6,4 +6,6 @@
 
 ## Members
 
-- yijiunchin
+- xmikux
+- y-zz
+- souseishin
